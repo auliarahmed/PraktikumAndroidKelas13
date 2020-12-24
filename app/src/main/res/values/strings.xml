@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Praktikum Android Kelas 13</string>
+    <string name="app_name">Practic Android Class 13</string>
     <string name="first_number">First Number</string>
     <string name="second_number">Second Number</string>
     <string name="result">Result</string>
@@ -11,7 +11,8 @@
     <string name="send_with_intent_parcelable">Send with Intent Parcelable</string>
     <string name="send_with_intent">Send with Intent</string>
     <string name="phone_number">Phone Number</string>
-    <string name="ipk">IPK</string>
+    <string name="ipk">GPA</string>
     <string name="name">Name</string>
     <string name="npm">NPM</string>
+    <string name="language_option">Choose Language</string>
 </resources>
