@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //inisialisasi
         val etNumber1 = findViewById<EditText>(R.id.etNumber1)
         val etNumber2 = findViewById<EditText>(R.id.etNumber2)
 
@@ -21,7 +22,11 @@ class MainActivity : AppCompatActivity() {
 
         val tvResult = findViewById<TextView>(R.id.tvResult)
 
+        //setonclicklistener
         btAdd.setOnClickListener{
+            //var untuk variable yg bisa berubah
+            //val untuk variable yg tetap/tidak berubah
+
             var doubleNumber1 = 0.0
             if(etNumber1.text.toString() != "")
                 doubleNumber1 = etNumber1.text.toString().toDouble()
