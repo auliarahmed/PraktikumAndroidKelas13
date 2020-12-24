@@ -7,4 +7,11 @@
     <string name="sub">-</string>
     <string name="multiply">*</string>
     <string name="division">/</string>
+    <string name="call">Call</string>
+    <string name="send_with_intent_parcelable">Send with Intent Parcelable</string>
+    <string name="send_with_intent">Send with Intent</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="ipk">IPK</string>
+    <string name="name">Name</string>
+    <string name="npm">NPM</string>
 </resources>
